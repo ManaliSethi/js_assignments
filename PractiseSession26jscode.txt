@@ -1,0 +1,12 @@
+Que1 Sort the alphabetically the String 
+https://jsfiddle.net/fu4cbx8w/1/
+Que2 Write a JavaScript fun that accept a string as a parameter and fing the longest word length 
+https://jsfiddle.net/cp5w4gLs/
+Que3:Print Date in javaScript 
+https://jsfiddle.net/svokcuph/
+Que4:Write a JavaScript Function from a year 2000 to 2050 find the year which has sunday on 1st jan date
+https://jsfiddle.net/8ozfnLp1/2/
+Que5:Write a JavaScript program to calculate number of days left until next Christmas.
+https://jsfiddle.net/ug2hyenp/
+Que6:Write a JavaScript program to remove a character at the specified position of a given string and return the new string.
+https://jsfiddle.net/xr5b62n4/
