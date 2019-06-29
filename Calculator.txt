@@ -1,0 +1,4 @@
+Que1:Create a standard calculator for mathematical calculation
+
+
+https://jsfiddle.net/qovbguL4/
