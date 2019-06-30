@@ -1,0 +1,8 @@
+Create a webpage that prints your name to the screen.
+Create a webpage that prints the numbers 1 - 10 to the screen. 
+Create a web page and set its title to "This is a web page". 
+Print your name in green. 
+Print the numbers 1 - 10, each number being a different color.
+Print a paragraph with 4 - 5 sentences. 
+Solution :
+https://jsfiddle.net/1xp2u3ch/
