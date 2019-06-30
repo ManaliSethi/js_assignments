@@ -1,0 +1,5 @@
+
+Que Design a Editor with the help of js,html,bootstrape using drag and drop function 
+https://jsfiddle.net/dh6f8sqg/1/
+ working video 
+https://drive.google.com/file/d/1AKT8kRZJ1saOutynylP8sIwP8iLDxr65/view
