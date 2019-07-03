@@ -1,0 +1,7 @@
+    
+1) Change color on click
+https://jsfiddle.net/4kfv9joy/1/
+2) upload image of given URL
+https://jsfiddle.net/a9mx2fv0/1/
+3) Countdown
+ https://jsfiddle.net/a9mx2fv0/3/
