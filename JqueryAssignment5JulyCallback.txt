@@ -1,0 +1,10 @@
+Que1 JQuery:
+Create a form with four text boxes, one button and three radio button for selecting colors
+On the button click change the background color of text boxes as per the color selected 
+Consider the following conditions
+If user selected color is red then fadein text box 1 and set background color red for all textboxes
+If user selected color is green then slideToggle the button and set background color green for all textboxes
+If user selected color is  blue then hide 2 textboxes and set background color blue for remaning  textboxes
+
+Solution:
+https://jsfiddle.net/1oaLwenc/
