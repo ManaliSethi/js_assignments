@@ -1,0 +1,2 @@
+Que implement promise function 
+https://jsfiddle.net/ven24shm/
